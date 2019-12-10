@@ -21,7 +21,21 @@
 
 ![image-20191129165939876](/Users/chenshuyu/Library/Application Support/typora-user-images/image-20191129165939876.png)
 
-3. 
+3. 实验各种命令
+
+* 实现可执行
+
+![image-20191210084107808](/Users/chenshuyu/Library/Application Support/typora-user-images/image-20191210084107808.png)
+
+* 实现重定向
+
+![image-20191210084131253](/Users/chenshuyu/Library/Application Support/typora-user-images/image-20191210084131253.png)
+
+* 实现管道
+
+![image-20191210084228556](/Users/chenshuyu/Library/Application Support/typora-user-images/image-20191210084228556.png)
 
 #### 实验结果
+
+![image-20191210084624822](/Users/chenshuyu/Library/Application Support/typora-user-images/image-20191210084624822.png)
 
